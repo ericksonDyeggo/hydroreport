@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "228859214999",
+    "firebase_url": "https://hydroreport-1e365.firebaseio.com",
+    "project_id": "hydroreport-1e365",
+    "storage_bucket": "hydroreport-1e365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228859214999:android:5a575ac21149ffdb",
+        "android_client_info": {
+          "package_name": "com.hydroreportapp.hydroreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228859214999-8thijpvjstsp90u8vv6tv36080g0llja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hydroreportapp.hydroreport",
+            "certificate_hash": "0AED51622A80DA6F9D64913501D7EF1CEB195F8E"
+          }
+        },
+        {
+          "client_id": "228859214999-jf253e2cm8tomf4e8v5h9858vpuui9t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTRMOt3ALvSpHFXO5NcnIluuDTYfAbonI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228859214999-jf253e2cm8tomf4e8v5h9858vpuui9t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
