@@ -60,6 +60,26 @@ http://www.ambev.com.br/hackathon/
 > Desenvolvedor Senior  
 > https://www.linkedin.com/in/alisonpedro  
 
+### Erickson Takano
+> Desenvolvedor Senior  
+> https://www.linkedin.com/in/ericksontakano  
+
+### Helder Paiva
+> Desenvolvedor Senior  
+> https://www.linkedin.com/in/ericksontakano  
+
+### Laura Lima
+> Desenvolvedor Senior  
+> https://www.linkedin.com/in/ericksontakano  
+
+### Luiza Andrade
+> Desenvolvedor Senior  
+> https://www.linkedin.com/in/ericksontakano  
+
+### Matheus Connolyn
+> Desenvolvedor Senior  
+> https://www.linkedin.com/in/ericksontakano  
+
 
 
 
