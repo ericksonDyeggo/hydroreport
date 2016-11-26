@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <CheckBox
+        android:id="@+id/chkBoxOdor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/opt_odor" />
+
+    <CheckBox
+        android:id="@+id/chkBoxCor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/opt_cor" />
+
+    <CheckBox
+        android:id="@+id/chkBoxVazamento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/opt_vazamento" />
+
+    <CheckBox
+        android:id="@+id/chkBoxGosto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/opt_gosto" />
+
+    <CheckBox
+        android:id="@+id/chkBoxFalta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/opt_falta" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_descricao" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/btn_reportar" />
+</LinearLayout>
