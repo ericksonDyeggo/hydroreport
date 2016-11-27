@@ -31,17 +31,16 @@ public class MapaActivity extends FragmentActivity implements OnMapReadyCallback
         FloatingActionButton addReport = (FloatingActionButton) findViewById(R.id.addReport);
         addReport.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                setContentView(R.layout.activity_report);
+//                setContentView(R.layout.activity_report);
 
-
-                //Intent it = new Intent(this, ReportActivity.class);
-                //startActivity(it);
+                Intent it = new Intent(getApplicationContext(), ReportActivity_.class);
+                startActivity(it);
             }
         });
 
     }
 
-    public void callReport(){
+    public void callReport() {
         setContentView(R.layout.activity_report);
 
     }
@@ -51,7 +50,7 @@ public class MapaActivity extends FragmentActivity implements OnMapReadyCallback
     public void onMapReady(GoogleMap map) {
 
 
-        LatLng sydney =  new LatLng(-23.597786, -46.682202);
+        LatLng sydney = new LatLng(-23.597786, -46.682202);
         map.addMarker(new MarkerOptions().position(sydney).title("Your location"));
         map.moveCamera(CameraUpdateFactory.newLatLng(sydney));
         map.moveCamera(CameraUpdateFactory.zoomTo(19f));

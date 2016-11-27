@@ -51,16 +51,15 @@ public class ReportActivity extends AppCompatActivity {
     @ViewById
     Button btnReportar;
 
-
     double cord_x = 0;
     double cord_y = 0;
 
     @AfterViews
     void afterViews() {
-        if (!isLocationEnabled())
-            showLocationAlert();
         initializeFirebase();
         initializeLocationManager();
+        if (!isLocationEnabled())
+            showLocationAlert();
         initializeLocationListener();
     }
 
