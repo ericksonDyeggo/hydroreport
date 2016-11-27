@@ -35,11 +35,13 @@
         android:text="@string/opt_falta" />
 
     <EditText
+        android:id="@+id/edtDescricao"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/hint_descricao" />
 
     <Button
+        android:id="@+id/btnReportar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
