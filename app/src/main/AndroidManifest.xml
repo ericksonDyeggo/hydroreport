@@ -31,7 +31,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".ReportActivity_"></activity>
-        <activity android:name=".MapaActivity"></activity>
+        <activity android:name=".MapaActivity_"></activity>
 
 
         <meta-data

@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Hydro Report</string>
 
+    <!--Mapa Layout-->
+    <string name="map_my_pin">Você está aqui</string>
     <!--Report Layout-->
     <string name="opt_odor">Odor</string>
     <string name="opt_cor">Cor</string>
@@ -12,4 +14,5 @@
     <string name="gps_alert_title">Habilitar Localização</string>
     <string name="gps_alert_msg">Sua localização está desabilitada. Por favor, habilite a localização.</string>
     <string name="gps_alert_positive_button">Configurações</string>
+    <string name="gps_alert_negative_button">Configurações</string>
 </resources>

@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
               //  setContentView(R.layout.activity_report);
                 /* Create an Intent that will start the Menu-Activity. */
-                Intent mainIntent = new Intent(MainActivity.this,MapaActivity.class);
+                Intent mainIntent = new Intent(MainActivity.this,MapaActivity_.class);
                 MainActivity.this.startActivity(mainIntent);
                // MainActivity.this.finish();
             }
