@@ -9,4 +9,7 @@
     <string name="opt_falta">Falta de água</string>
     <string name="hint_descricao">Descrição</string>
     <string name="btn_reportar">Reportar</string>
+    <string name="gps_alert_title">Habilitar Localização</string>
+    <string name="gps_alert_msg">Sua localização está desabilitada. Por favor, habilite a localização.</string>
+    <string name="gps_alert_positive_button">Configurações</string>
 </resources>
